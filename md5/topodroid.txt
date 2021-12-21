@@ -1,10 +1,17 @@
 TopoDroid Apk size and md5
 
 Version		Date		Sise		MD5					Notes
+Alpha 6.0.31    2021-12-21	6124530		2fef99a81f78064a38374c774abd5f0f	target API-29
+Alpha 6.0.30    2021-12-15	6095792		51a16a5d4ec3b3949e8fd76aea7db4b7
+Alpha 6.0.11    2021-10-08	5603577		b1d70bce675b32afe9f198dbf036efb3        device and symbols in private folder
+Alpha 6.0.10    2021-10-07	5609636		eee7f2e7bce2ea907c70d2c67a2cc3cf
+Alpha 6.0.9	2021-10-06 	5608916		b24cbee9e74563713ea72c026e76777f
+Alpha 6.0.8	2021-10-06	5610868		c27eb93a24f4e21bdb6feaa1ad19aa5f
 Alpha 6.0.7	2021-10-01	5732690		51c621d5af7e35b429ea12363e277218	package name com.topodroid.DistoX
 Alpha 6.0.6	2021-09-29	5762602		3f0edb74b9b15adca438d34eb4a61687
+Alpha 6.0.1										package name com.topodroid.Cave3X
 Alpha 6.0.0	2021-09-09	5760467		b4565239c0d46af5d4f1fcd48321691d
-Alpha 5.1.96	2021-08-02	4345219		58882d05f9bc89a7b5b224f93480fc71	package name com.topodroid.Cave3X
+Alpha 5.1.96	2021-08-02	4345219		58882d05f9bc89a7b5b224f93480fc71
 Alpha 5.1.94	2021-07-22	4342341		e688425ccd94c4eb4ea96afd63a0bc31
 Alpha 5.1.93	2021-07-21	4342509		b8c61e32896233d8af16253e6edd5474
 Alpha 5.1.90	2021-07-19	4342042		634b60b00ddeacb8878e7a05bc030edf
