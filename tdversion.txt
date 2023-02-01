@@ -1,1 +1,1 @@
-android:versionName=6.1.94
+android:versionName=6.1.95
