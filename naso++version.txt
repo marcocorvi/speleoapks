@@ -1,1 +1,1 @@
-android:versionName=1.0.4
+android:versionName=1.0.6
