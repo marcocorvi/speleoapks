@@ -2,6 +2,7 @@ TopoDroid versions 6.2
 Release date, apk size and md5
 
 Version		Date		Size		MD5					Notes
+X 6.3.27-35	2025-03-26	7590607		16af5fd86e6eb1e9b8990483ca2ce416
 X 6.3.26-35	2025-03-18	7582176		316daf2ae20b0a8d6f080791248aaa87
 X 6.3.25-35	2025-03-17	7582176		cfe7cf92532b30c72806572e866b0a9a
 X 6.3.24-35	2025-03-16	7582176		52a6addb8b5ba6e2869e5f2e9cb3edc9
