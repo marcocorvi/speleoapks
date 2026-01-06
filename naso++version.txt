@@ -1,1 +1,1 @@
-android:versionName=2.0.7
+android:versionName=3.0.0
